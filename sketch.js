@@ -6,9 +6,9 @@ let personagem;
 
 
 function preload() {
-  imagemCenario = loadImage('imagens/cenario/floresta.png');
-  imagemPersonagem = loadImage('imagens/personagem/correndo.png');
-  somDoJogo = loadSound('sons/trilha_jogo.mp3');
+  imagemCenario = loadImage('https://github.com/pessoa-comun/Imers-o-GameDev/blob/master/assets/imagens/cenario/floresta.png');
+  imagemPersonagem = loadImage('https://github.com/pessoa-comun/Imers-o-GameDev/blob/master/assets/imagens/personagem/correndo.png');
+  somDoJogo = loadSound('https://github.com/pessoa-comun/Imers-o-GameDev/blob/master/assets/sons/trilha_jogo.mp3');
 }
 
 function setup() {
